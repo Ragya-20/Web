@@ -9,3 +9,9 @@
  ## DAY 2
  - Made custom react to understand the working of React.
  - Use of bundler in React and the importance of syntax in React library.
+
+---
+
+## DAY 3
+- Learnt the purpose of using hooks (for updation in UI).
+- Made own project to see the working of hooks.

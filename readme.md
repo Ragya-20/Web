@@ -20,3 +20,4 @@
 ## DAY 4 
 - Learnt the meaning of virtual DOM, fiber, reconciliation.
 - Started a project with tailwind.
+- Learnt the use of props in React.
